@@ -1,0 +1,20 @@
+.profileWrapper {
+  display: flex;
+  top: 30vh;
+  left: 10vw;
+  position: absolute;
+}
+
+.profileAbout {
+  left: 40px;
+  position: relative;
+  width: 50%;
+}
+
+.profileAboutHeading {
+  font-size: 60px;
+}
+
+.profileImage {
+  border-radius: 200px;
+}
