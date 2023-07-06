@@ -12,7 +12,7 @@ export default function Home() {
       <Navbar />
       <div>
         <Image
-          src="/images/profile.jpg"
+          src="/images/profile.jpeg"
           height={200}
           width={300}
           alt="Nilesh"
