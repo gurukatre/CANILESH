@@ -12,11 +12,10 @@ export default function Home() {
       <Navbar />
       <div>
         <Image
-          src="/images/profile.jpeg"
+          src="/images/profile.jpg"
           height={200}
           width={300}
           alt="Nilesh"
-          style={{ 'border-radius': '100%' }}
         />
       </div>
     </div>
