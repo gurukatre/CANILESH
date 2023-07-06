@@ -2,8 +2,8 @@
 module.exports = {
   content: [
     './public/index.html',
-    './pages/**/*.{html,js}',
-    './components/**/*.{html,js}',
+    './pages/**/*.{html,js,jsx}',
+    './components/**/*.{html,js,jsx}',
     './index.html',
   ],
   presets: [],
