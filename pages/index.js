@@ -15,7 +15,7 @@ export default function Home() {
         <div>
           <Image
             className={style.profileImage}
-            src="/images/profile.jpeg"
+            src="/images/profile.jpg"
             height={400}
             width={400}
             alt="Nilesh"
